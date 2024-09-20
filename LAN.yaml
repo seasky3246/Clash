@@ -1,6 +1,6 @@
 payload:
   # 内容：LAN
-  # 数量：10条
+  # 数量：34条
   - DOMAIN-SUFFIX,acl4.ssr
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
